@@ -1,7 +1,7 @@
 {
 	"name": "koolsam/facebook-leads-example",
 	"description": "Complete example on how to grab leads from Facebook Ad Leads",
-	"minimum-stability": "stable",
+	"minimum-stability": "dev",
 	"license": "proprietary",
 	"authors": [
 		{
