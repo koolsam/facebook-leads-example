@@ -1,12 +1,12 @@
 {
 	"name": "koolsam/facebook-leads-example",
 	"description": "Complete example on how to grab leads from Facebook Ad Leads",
-	"minimum-stability": "dev",
+	"minimum-stability": "stable",
 	"license": "proprietary",
 	"authors": [
 		{
-			"name": "Tiago Carvalho",
-			"email": "tiago.carvalho@gmail.com"
+			"name": "sand",
+			"email": "koolsam.s@gmail.com"
 		}
 	],
 	"require": {
